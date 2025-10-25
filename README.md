@@ -1,3 +1,16 @@
+<!-- Social Preview Metadata -->
+<meta property="og:title" content="Mini Gateway — Web-Configurable IoT Gateway for ESP8266">
+<meta property="og:description" content="Smart dual-mode Wi-Fi gateway with JSON API, web dashboard, and DHCP scanner for Wemos D1 mini. Built with Arduino and ESP8266WebServer.">
+<meta property="og:image" content="https://raw.githubusercontent.com/sismadi/mini-gateway/main/docs/esp8266oled.jpeg">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://github.com/sismadi/ESP8266-OLED-WiFi-JSON">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- Banner -->
+<p align="center">
+  <img src="./esp8266oled.jpeg" alt="Mini Gateway Banner">
+</p>
+
 # 🛰️ ESP8266 NodeMCU + OLED WiFi Manager & JSON Client
 
 ![ESP8266](https://img.shields.io/badge/Board-ESP8266--12E-blue)
